@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Filter-By-Category/static/css/main.ff0d48a3.css",
+    "main.js": "/Filter-By-Category/static/js/main.88eb0ffa.js",
+    "index.html": "/Filter-By-Category/index.html",
+    "main.ff0d48a3.css.map": "/Filter-By-Category/static/css/main.ff0d48a3.css.map",
+    "main.88eb0ffa.js.map": "/Filter-By-Category/static/js/main.88eb0ffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff0d48a3.css",
+    "static/js/main.88eb0ffa.js"
+  ]
+}
